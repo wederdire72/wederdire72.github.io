@@ -6,7 +6,7 @@
 name: Abrahan Cruz
 
 # Short bio or description (displayed in the header)
-description: Ok, this is just some developer...Changing things on Github
+description: Pizza , Coding, Oneplus, Nexus, Nokia...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-syntax-error.png
@@ -16,17 +16,17 @@ avatar: http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-syntax-error.png
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
+footer-links: N/a
+  dribbble: x
+  email: starbrahan3@gmail.com
+  facebook: No 
+  flickr: Still No
   github: barryclark/jekyll-now
-  instagram: 
-  linkedin: 
-  pinterest: 
+  instagram: No 
+  linkedin: No 
+  pinterest: No No No
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: Nope
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
